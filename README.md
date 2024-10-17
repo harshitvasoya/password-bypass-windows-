@@ -1,5 +1,3 @@
-# password-bypass-windows-
-Windows 11 Password Bypass Guide
 # Windows 11 Password Bypass Guide
 
 ## Overview
